@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "999013355181",
+    "project_id": "remottely-nextlov",
+    "storage_bucket": "remottely-nextlov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999013355181:android:3f128c244512931b75c024",
+        "android_client_info": {
+          "package_name": "com.remottely.nextlov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999013355181-g5q5952turvfak8i23s842u65fvo8n4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.remottely.nextlov",
+            "certificate_hash": "5eed9c953233566f7e99739a2785f588456a56bf"
+          }
+        },
+        {
+          "client_id": "999013355181-pkt02av21474i1d3qqe6sql9ajnfadid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEWyn4yyQ0XXavOoUcri5xFyaQArFvy8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999013355181-pkt02av21474i1d3qqe6sql9ajnfadid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "999013355181-a8cjh9pfmkp8616r6r3j8cl5vfvnun2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nextlov"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
